@@ -9,10 +9,10 @@
 
 {% if site.thame == "one" %}
   $color: #17baef;
-  $color-2: #eebf3f;
+  $color-2: #303030;
 {% elsif site.thame == "two" %}
   $color: #b4ca65;
-  $color-2: #dd7c4f;
+  $color-2: #303030;
 {% elsif site.thame == "three" %}
   $color: #6690b9;
   $color-2: #f46fa3;
