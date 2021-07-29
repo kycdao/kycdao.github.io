@@ -10,9 +10,9 @@ org_summary: > # kyc for DAOs as a DAO.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
   The kyc DAO is created to bridge the real world with the metaverse in a (re)usable way. 
   We thrive to create an ecosystem of identity services that serve the evolving needs of the digital economy. 
-  - reusable kyc and 
-  - reputation
-  - whitelisting
+  <br> | reusable kyc and 
+  <br> | reputation
+  <br> | whitelisting
 
 #OPTIONAL
 #Non US-address support coming soon
