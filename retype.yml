@@ -1,5 +1,15 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://kycdao.github.io/
 branding:
-  title: kycDAO
+  title: kycDAO_
+  logo: static/kycdao_logo.png
+  label: Documentation
+#links:
+  #- text: Welcome
+   # link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
+layout: page
+branding:
+  title: kycDAO documentation_1
