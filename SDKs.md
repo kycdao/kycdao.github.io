@@ -3,10 +3,9 @@ label: SDKs
 icon: code
 ---
 
-## Intro to kycDAO SDKs
-fesjfnons
+## Overview
 
+kycDAO offers two SDKs for integrating your site with our service.
 
-This document describes the main ways to embed kycDAO SDKs to web3 services. 
-
-The kycDAO SDK provides...
+- A [Typescript SDK](/SDKs/typescript-sdk) which allows a site to fully customize their UI/UX by making the calls to the kycDAO service from their own UI components.
+- An [Embedded SDK](/SDKs/embedded-sdk) which is a quick way to integrate the kycDAO service by embedding the kycDAO UX flow in a popup window.
