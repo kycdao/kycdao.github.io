@@ -1,6 +1,7 @@
 ---
 layout: central
 label: Welcome
+icon: home
 ---
 
 ![](https://blog.kycdao.xyz/content/images/2022/05/docs-cover.jpg)
