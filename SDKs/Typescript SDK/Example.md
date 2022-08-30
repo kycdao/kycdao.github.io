@@ -1,17 +1,19 @@
 ---
-label: Integration Guide
+label: Example
 icon: code
+order: -1
 ---
 
 !!!
-This is an example integration guide with a grant program integration example
+This is an example page showing how to integrate kycDAO. The example is a grant program site which requires KYC compliance for submitting proposals.
 !!!
 
-See the example website for the grants program sample site [link]
+See the example website here: [grant.com]()
 
+The code for this site is here: [example-repo]()
 
+## Theoretical user interaction flow
 
-Theoretical user interaction flow: 
 1. user opens grant.xyz site
 2. user connects their wallet 
     a.  site calls SDK to validate selected network
