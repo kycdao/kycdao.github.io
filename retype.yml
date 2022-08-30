@@ -2,7 +2,7 @@ input: .
 output: .retype
 url: https://kycdao.github.io/
 branding:
-  title: kycDAO_
+  title: kycDAO
   logo: static/kycdao_logo.png
   label: Documentation
 #links:
