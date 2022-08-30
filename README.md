@@ -77,3 +77,13 @@ kycDAO takes privacy seriously, and no PII (Personal Identifiable Information) i
 +++ Defi :icon-law: 
 - With the use of gated DeFi protocols, a new wave of institutional liquidity can be unlocked that has been waiting on the sidelines. Gated DeFi allows one to blur lines between TradFi and DeFi and apply the most efficient market mechanisms while meeting compliance requirements.
 +++
+
+--- 
+## Support
+Technical support questions are best asked on our [Discord](https://discord.kycdao.xyz/). The discussions are monitored 24 hours a day and we will do our best to assist.
+
+If you find a defect or would like to submit a feature request, please create an Issue and we will investigate right away.
+
+Do you have a general inquiry? Please feel free to contact us at hello@kycdao.xyz.
+
+We ❤️ feedback.
