@@ -59,19 +59,21 @@ kycDAO takes privacy seriously, and no PII (Personal Identifiable Information) i
 
 ## Use cases
 
-- NFTs
-    - A bourgeoising aspect of web3 that took the sector by surprise. The speed at which NFTs became part of the pop culture and reached segments of the population who were new to crypto. NFTs, while bringing personalization to the dry crypto ecosystem, also brought new breeds of scams tarnishing the reputation NFTs would deserve.
-    - Ensuring the trusted trade of NFTs could offer safer participation in combating the numerous issues surrounding crypto.
-    - Founders, artists, or Multisig holder verification could ensure trust in projects that might have difficulty developing a trusting user base.
-- Games
-    - web3 gaming is only testing its early potential. As gaming took over the top spot as the most grossing entertainment sector, the introduction of true ownership and new markets will enable the sector to go through a revolution. Games already combat bots and in-game farming; however, decentralization introduces a new layer of complexity.
-    - Using kycNFTs, players could ensure they are playing only with verified members or parts of the metaverses, or markets could be limited to only trusted players ensuring financial compliance and combat bots.
-- DAOs
-    - The space DAOs occupy receives growing scrutiny from legal experts. The uncertainty around individual liability is moving the ecosystem toward a safe direction to establish legal wrappers and mitigate personal liability. kycNFTs enable DAOs to ensure their members are not sanctioned and meet required verification requirements without accessing the data of their members. Using kycNFTs, DAOs can run fair voting based on proof of unique human metadata.
-- Social
-    - Early communities were solidified through ,ICOs IDOs and most recently, through an ever more sophisticated array of airdrops. Many of these token distribution events obtained legal and compliance reviews and often implemented tooling to meet the requirements.
-    - Sovereign social or web3 social is a growing sector with many initiatives entering the space to compete for the opportunity. A common risk that even web2 social platforms combat is the extensive presence of automated bots. The risk bots propose in decentralized social media is significantly more due to the purposeful lack of oversight. Verified users could be a form of human-to-human trust; just as users of Twitter trust more verified users, wallets with kycNFts could be trusted.
-- On/Off ramps
-    - These essential payment rails fall under the same scrutiny as most financial services. Ramps interacting with a pre-verified account, the user can access payment flows easier. At the same time, the level of trust required by services is met.
-- DeFi
-    - With the use of gated DeFi protocols, a new wave of institutional liquidity can be unlocked that has been waiting on the sidelines. Gated DeFi allows one to blur lines between TradFi and DeFi and apply the most efficient market mechanisms while meeting compliance requirements.
+
++++ NFTs :icon-image: 
+- A bourgeoising aspect of web3 that took the sector by surprise. The speed at which NFTs became part of the pop culture and reached segments of the population who were new to crypto. NFTs, while bringing personalization to the dry crypto ecosystem, also brought new breeds of scams tarnishing the reputation NFTs would deserve.
+- Ensuring the trusted trade of NFTs could offer safer participation in combating the numerous issues surrounding crypto.
+- Founders, artists, or Multisig holder verification could ensure trust in projects that might have difficulty developing a trusting user base.
++++ Games :icon-rocket:
+- web3 gaming is only testing its early potential. As gaming took over the top spot as the most grossing entertainment sector, the introduction of true ownership and new markets will enable the sector to go through a revolution. Games already combat bots and in-game farming; however, decentralization introduces a new layer of complexity.
+- Using kycNFTs, players could ensure they are playing only with verified members or parts of the metaverses, or markets could be limited to only trusted players ensuring financial compliance and combat bots.
++++ DAOs :icon-code-of-conduct:
+- The space DAOs occupy receives growing scrutiny from legal experts. The uncertainty around individual liability is moving the ecosystem toward a safe direction to establish legal wrappers and mitigate personal liability. kycNFTs enable DAOs to ensure their members are not sanctioned and meet required verification requirements without accessing the data of their members. Using kycNFTs, DAOs can run fair voting based on proof of unique human metadata.
++++ Social :icon-globe:
+- Early communities were solidified through ,ICOs IDOs and most recently, through an ever more sophisticated array of airdrops. Many of these token distribution events obtained legal and compliance reviews and often implemented tooling to meet the requirements.
+- Sovereign social or web3 social is a growing sector with many initiatives entering the space to compete for the opportunity. A common risk that even web2 social platforms combat is the extensive presence of automated bots. The risk bots propose in decentralized social media is significantly more due to the purposeful lack of oversight. Verified users could be a form of human-to-human trust; just as users of Twitter trust more verified users, wallets with kycNFts could be trusted.
++++ On/Off ramps :icon-arrow-switch:
+- These essential payment rails fall under the same scrutiny as most financial services. Ramps interacting with a pre-verified account, the user can access payment flows easier. At the same time, the level of trust required by services is met.
++++ Defi :icon-law: 
+- With the use of gated DeFi protocols, a new wave of institutional liquidity can be unlocked that has been waiting on the sidelines. Gated DeFi allows one to blur lines between TradFi and DeFi and apply the most efficient market mechanisms while meeting compliance requirements.
++++
