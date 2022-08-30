@@ -9,18 +9,19 @@ For Wallet holders: Be Your Own Bank - Not Your Keys, Not Your Coins?
 For web3 projects: keeping web3 out of regulatory trouble. 
 
 
-### kycDAO 
-kycDAO links verified users to blockchain addresses to create a composable blockchain native compliant trust framework. 
+## kycDAO 
+> kycDAO links verified users to blockchain addresses to create a composable blockchain native compliant trust framework. 
+>
 
 
-# TL;DR
+## TL;DR
 
 - kycDAO manages identity verification **liability** to offset compliance requirements from web3 services gating with valid kycNFT-s, enabling them to stay decentralized while meeting regulatory requirements.
 - **Composable** on-chain assets enable automated gating for smart contracts. By enabling wallet holders to own proof of their verification as an extension of the wallet (non-transferable NFT) the interactions between web3 services and users stay private.
 - kycDAO infrastructure is designed with a **multi-chain** approach to creating the most widely available and supported trusted ecosystems in web3.
 - Pseudoanonymity offered by the proof of verifications (kyc NFT)-s allows 3rd parties to rely on a fully compliant user base while never needing to access data or PII about the user. [*how credit cards prove that a bank account is there, has funding, the owner is verified, without revealing any information about the owner of the card]*
 
-# Background
+## Background
 
 The unregulated crypto markets enabled innovation at an unprecedented pace, increasingly blurring the line between web2 and web3; the quest to establish trust is foundational.  
 Crypto, tokens, NFTs (non-fungible tokens), DAOs (decentralized autonomous organizations), and DeFi (decentralized finance) are part of the consciousness, yet “crypto” has a tarnished reputation. The scams, rug-pulls, and hacks seriously deteriorated trust in web3, hindering the real scale of adoption and growth.
@@ -35,7 +36,7 @@ Web3 has matured along with its recognition from niche sub-cultures to pop cultu
 To prepare web3 for the next cycle, kycDAO is solving the quest of linking web2 type compliant verifications to web3 as a baseline for trust. The opportunities are limitless when we solve pseudonymous trust and bridge the real and the metaverse.
 
 
-# A trusted ecosystem
+## A trusted ecosystem
 
 **kycDAO is compliance designed for web3**. 
 
@@ -56,7 +57,7 @@ kycDAO takes privacy seriously, and no PII (Personal Identifiable Information) i
 
 
 
-# Use cases
+## Use cases
 
 - NFTs
     - A bourgeoising aspect of web3 that took the sector by surprise. The speed at which NFTs became part of the pop culture and reached segments of the population who were new to crypto. NFTs, while bringing personalization to the dry crypto ecosystem, also brought new breeds of scams tarnishing the reputation NFTs would deserve.
