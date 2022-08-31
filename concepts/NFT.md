@@ -1,7 +1,7 @@
 ---
 label: NFT
-icon: person
 order: 100
+icon: image
 ---
 
 NFTs (Non-fungible tokens) as a concept are prolific and they exist on almost every blockchain. For this reason kycDAO has used NFTs to represent a user's verification with us.
