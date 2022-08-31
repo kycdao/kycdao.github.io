@@ -1,13 +1,9 @@
-
+---
+label: NFT
+icon: image
 ---
 
+kycDAO non-transferable NFTs are designed to represent for web3 services that the blockchain address owner is a compliant legal person. 
 
+kycNFTs are the web3 version of the Twitter tick [tick], but they are owned by the user.
 
-
-
-If you want to find out more about kycDAO you should head to our [website](https://kycdao.xyz), however, if you are looking for:
-
-* our [SDK](https://kycdao.github.io/kycdao-js-sdk/),
-* integration [example](https://kycdao.github.io/sdk-example/),
-
-you have come to the right place.
