@@ -1,6 +1,6 @@
 ---
 label: Example
-icon: circle
+icon: dot
 order: -1
 ---
 

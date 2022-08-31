@@ -1,6 +1,6 @@
 ---
 label: Getting started
-icon: circle
+icon: dot
 order: 0
 ---
 

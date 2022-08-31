@@ -1,6 +1,6 @@
 ---
 label: API reference
-icon: circle
+icon: dot
 order: -100
 ---
 

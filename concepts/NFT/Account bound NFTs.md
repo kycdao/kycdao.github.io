@@ -17,3 +17,5 @@ As kycDAO supports multiple different blockchain types and each blockchain has i
 ## NEAR
 
 ## Solana
+
+## Aptos
