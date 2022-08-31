@@ -1,5 +1,5 @@
 ---
-label: Typescript SDK
+label: JS/TS SDK
 icon: code
 ---
 
