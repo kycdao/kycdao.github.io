@@ -1,13 +1,9 @@
-
+---
+label: NFT
+icon: person
+order: 100
 ---
 
+NFTs (Non-fungible tokens) as a concept are prolific and they exist on almost every blockchain. For this reason kycDAO has used NFTs to represent a user's verification with us.
 
-
-
-
-If you want to find out more about kycDAO you should head to our [website](https://kycdao.xyz), however, if you are looking for:
-
-* our [SDK](https://kycdao.github.io/kycdao-js-sdk/),
-* integration [example](https://kycdao.github.io/sdk-example/),
-
-you have come to the right place.
+Unlike standard NFTs though, which can be traded with others, as these verifications only make sense when associated with a specific account or address, our NFTs are non-transferable.
