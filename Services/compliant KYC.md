@@ -1,6 +1,6 @@
 ---
-label: For developers
-icon: code
+label: Compliant KYC
+icon: dot
 ---
 
 ## Overview

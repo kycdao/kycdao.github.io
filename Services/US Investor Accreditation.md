@@ -1,6 +1,6 @@
 ---
-label: For developers
-icon: code
+label: US Investor Accreditation
+icon: dot
 ---
 
 ## Overview
