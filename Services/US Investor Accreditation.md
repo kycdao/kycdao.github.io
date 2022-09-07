@@ -1,7 +1,8 @@
 ---
-label: US Investor Accreditation
+label: Investor Accreditation
 icon: dot
+order: 8
 ---
 
-## Overview
+[!badge  variant="info" size="L" text="Medium" text="Under Construction"] 
 

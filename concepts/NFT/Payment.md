@@ -1,6 +1,7 @@
 ---
-label: Payment for minting
-icon: dot
+label: Minting fee
+icon: tag
+order: -10
 ---
 
 Payment is required for minting an NFT, as there is a cost associated with each of the verification processes.

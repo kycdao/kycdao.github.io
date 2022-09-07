@@ -1,12 +1,26 @@
 ---
 label: NFT metadata
-icon: code
-order: -100
+icon: code-square
+order: -8
 ---
 
 The metadata schema used for each kycDAO NFT will always store all necessary fields for using our service, however to conform to the standards for each blockchain the exact schema will differ slightly.
 
-## Ethereum (or EVM based chains)
+
+**kycNFT** specific metadata concepts: 
+
+Metadata   | Type | Description
+:---   | :---: | :---
+Validity | boolean  | Verification is `valid` or `non-valid`.
+Tier | x | Represent the verification type(s).
+Unique | x | Represents a Proof of Human factor
+Custom | x | This is an owner extenable function. 
+
+
+  
+---
+
+## Ethereum (and EVM chains)
 
 The majority of metadata for EVM based chains will be stored off-chain, to reduce gas costs.
 
@@ -21,6 +35,7 @@ Here's an example of the JSON metadata stored in IPFS:
     "name": "KYCDAO NFT"
 }
 ```
+---
 
 ## NEAR
 
@@ -39,6 +54,7 @@ type TokenMetadata = {
   reference_hash: string|null // Base64-encoded sha256 hash of JSON from reference field. Required if `reference` is included.
 }
 ```
+---
 
 ## Solana
 
@@ -61,3 +77,5 @@ Here is an example of the JSON metadata stored off-chain referred to in the `uri
 ```
 
 ## Aptos
+
+[!badge  variant="info" size="L" text="Medium" text="Soon"] 

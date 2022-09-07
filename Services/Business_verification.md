@@ -1,6 +1,7 @@
 ---
-label: Verification services
-icon: briefcase
+label: KYB
+icon: dot
+order: -2
 ---
 
 [!badge  variant="info" size="L" text="Medium" text="Under Construction"] 
