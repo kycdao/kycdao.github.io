@@ -6,4 +6,4 @@ order: -30
 
 [Under Construction]
 
-This page describes how to integrate the Embedded SDK
+This page describes how to integrate the Mobile SDKs

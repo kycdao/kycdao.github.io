@@ -10,7 +10,7 @@ The metadata schema used for each kycDAO NFT will always store all necessary fie
 
 The majority of metadata for EVM based chains will be stored off-chain, to reduce gas costs.
 
-Using the [ERC-721]() function `tokenURI` will return an IPFS URI to a JSON document with the metadata.
+Using the `ERC721` function `tokenURI` will return an IPFS URI to a JSON document with the metadata.
 
 Here's an example of the JSON metadata stored in IPFS:
 

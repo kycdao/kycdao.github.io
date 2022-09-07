@@ -18,6 +18,6 @@ For a more detailed explanation of our smart contracts please see [Smart contrac
 
 As the concept of a decentralized identity is such a common subject discussed in web3, solutions for how to implement it have also brought up some great discussions.
 
-Another alternative for sharing information related to an identity are [verifiable credentials]() or VCs.
+Another alternative for sharing information related to an identity are [verifiable credentials](https://www.w3.org/TR/vc-data-model/) or VCs.
 
 We've written a blog post summarizing our thoughts on the benefits and disadvantages of [NFTs vs VCs](https://blog.kycdao.xyz/nft_vs_vc/).

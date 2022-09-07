@@ -17,8 +17,4 @@ It's also possible for an organisation to 'pre-pay' for their users, making it f
 
 ## Supported currencies
 
-We try to support both the native currency and the most common stable coin on each chain.
-
-The following is a list of supported currencies on each chain:
-
-[Under construction]()
+We plan to support both the native currency and the most common stable coin on each chain.
