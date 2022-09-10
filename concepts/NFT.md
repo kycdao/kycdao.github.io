@@ -36,7 +36,7 @@ These verification NFTs are unique, [personalizable](/concepts/nft/NFT_art.md) a
 
 ---
 
-## Why did kycDAO choose to use NFTs?
+## Why did kycDAO choose to use soulbound NFTs?
 
 As the concept of a decentralized identity is such a common subject discussed in web3, solutions for how to implement it have also brought up some great discussions.
 

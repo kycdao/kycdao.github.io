@@ -1,6 +1,7 @@
 ---
-label: Welcome
+label: Intro
 icon: home
+order: 2
 ---
 
 
@@ -10,7 +11,7 @@ For web3 projects: keeping web3 out of regulatory trouble.
 
 
 ## kycDAO 
-> kycDAO links verified users to blockchain addresses to create a composable blockchain native compliant trust framework. 
+> kycDAO links verified users to blockchain addresses to create a composable web3 native compliant trust framework. 
 >
 
 

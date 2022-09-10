@@ -1,5 +1,5 @@
 ---
-label: EVM
+label: EVMs
 icon: dot
 order: 100
 ---

@@ -1,7 +1,7 @@
 ---
 label: DAO
 icon: code-of-conduct
-order: -6
+order: -10
 ---
 
 [!badge  variant="info" size="L" text="Medium" text="Soon"] 

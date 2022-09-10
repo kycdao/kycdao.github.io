@@ -20,7 +20,7 @@ Custom | x | This is an owner extenable function.
   
 ---
 
-## Ethereum (and EVM chains)
+## Ethereum & EVMs
 
 The majority of metadata for EVM based chains will be stored off-chain, to reduce gas costs.
 

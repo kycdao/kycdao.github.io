@@ -1,7 +1,7 @@
 ---
-label: Branding guide
+label: Branding
 icon: megaphone
-order: 0
+order: -6
 ---
 
 [!badge  variant="info" size="L" text="Medium" text="Under Construction"] 

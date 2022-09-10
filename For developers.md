@@ -1,6 +1,7 @@
 ---
-label: For developers
+label: Build
 icon: code
+order: -2
 ---
 
 Welcome developers! Here you'll find helpful documentation for integrating kycDAO into your site or Dapp.
