@@ -1,5 +1,5 @@
 ---
-label: NFT art
+label: kycNFT art
 icon: smiley
 order: 0
 ---

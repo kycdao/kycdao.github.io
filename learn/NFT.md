@@ -32,7 +32,7 @@ These verification NFTs are unique, [personalizable](/concepts/nft/NFT_art.md) a
 ===
 
 
-[!badge  corners="square" size="L" variant="danger" text="Medium" text="No PII on-chain"] - The NFT does not contain personal identifiable information. [Read more](/concepts/nft/nft_metadata.md)
+[!badge  corners="square" size="L" variant="danger" text="Medium" text="No PII on-chain"] - kycNFTs do not contain personal identifiable information. [Read more](/concepts/nft/nft_metadata.md)
 
 ---
 

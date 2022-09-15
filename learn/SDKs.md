@@ -17,14 +17,14 @@ To simplify the work we developed a range of options you can consider using when
 
 Integrate now following our guide [here]()
 
-## Custom-UI SDK 
+## Custom-UI SDK (JS/TS)
 allowing customization to meet Your UI/UX design. 
 
 [screenshot1] [example page]
 
 Integrate now following our guide [here]() and ask questions [:icon-unverified: Support](support.md)
 
-## Mobile SDKs 
+## Mobile SDKs (native + react) 
 because iOS and Android (wallets we did not forget about you) 
 
 [screenshot1] [screenshot2]
