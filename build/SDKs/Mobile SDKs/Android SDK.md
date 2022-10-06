@@ -25,8 +25,8 @@ Or you can also create your own class if you don't need to connect, for example 
 
 ```
 class MyWalletSession : WalletSession {
-    override fun getWalletAddress(): String {
-        return walletAddress   //0x2a93b577696b80bff9af29f6561d83a4998ae09e
+    override fun getAvailableWallets(): List<String> {
+        return addresses   //[0x2a93b57769..., 0x2b234a943...]
     }
     override fun getChainId(): String {
         return chainId   //80001
@@ -47,32 +47,123 @@ val walletSession = MyWalletSession()
 +++ WalletConnect 
 
 ```
-WalletConnectManager.subscribeSession { walletSession ->
-    // The connection is established
+//Connect to a wallet
+WalletConnectManager.connectWallet { createdSession ->
+    //On connection successfully established
+    myWalletSession = createdSession
 }
-
-// Open the wallet on this device for the connection
-WalletConnectManager.connectWallet()
 
 // Or show a QR code to connect with another device
 val qrCodeUri = WalletConnectManager.getUri()
 showQRcode(qrCodeUri)
 ```
-
 +++
-
 **Configure KycSession**
 
-Initialize the KycDaoSession with the Walletsession that you created before.
-With this interface you can guide the user through the KycDao process and show any screen you want.
+Initialize the KycDaoSession with the WalletSession that you created before. You will also have to provide a wallet address, that you want to associate with the kycSession. 
+With this interface you can guide the user through the KycDao process, while implementing your own logic in between.
 ```
- val kycSession = KycSessionManager.createSession(walletSession)
+ myKycSession = kycManager.createSession(choosenWallet, walletSession)
 ```
+**KycManager**
 
-**KycDao methods**
+Interacting with the KycSession happens not directly but through a manager class. Before calling any function of this class, make sure to first have a KycSession avalaible. This can be guranteed by first calling the prior mentioned createSession() method.
 
-[Under Construction]
+***Available Functions:***
+# createSession
 
+
+suspend fun createSession(walletAddress: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html), walletSession: WalletSession): KycSession
+
+Creates a kycSession that will be used by the KycManager.
+Must be called first to ensure that KycManager has access to a session.
+
+#### Return
+
+The created kycSession
+
+## Parameters
+
+| | |
+|---|---|
+| walletAddress | The wallet address which will be linked to the kycSession |
+| walletSession | An implementation of the WalletSession interface used to access the wallet of the user |
+
+# login
+
+
+suspend fun login(signature: [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)): [Boolean](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)
+
+Logs in the user, based on their signature
+
+#### Return
+
+Returns whether the login was successful or not
+
+## Parameters
+
+| | |
+|---|---|
+| signature | Personal signed signature created by WalletSession.personalSign() |
+
+# savePersonalInfo
+
+suspend fun savePersonalInfo(personalDataResult: [PersonalDataResult])
+
+Save the personal information of the user and sends confirmation email if email is not yet confirmed.
+
+By calling this function the disclaimer is also accepted. The function finishes when the email is confirmed.
+
+## Parameters
+
+| | |
+|---|---|
+| personalDataResult | The personal information to be saved wrapped in a PersonalDataResult class |
+
+# selectAndPrepareForNFTMinting
+
+
+suspend fun selectAndPrepareForNFTMinting(activity: [ComponentActivity](https://developer.android.com/reference/kotlin/androidx/activity/ComponentActivity.html)): [String](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)?
+
+Launches the predefined NftSelector activity on which a selection must be made, and returns with the id of the selectedImage.
+
+Returns after the minting of the selectedNft has been authorized.
+
+#### Return
+
+Id of the selected NFT image
+
+## Parameters
+| | |
+|---|---|
+| activity | Activity that launches the new NftSelectorActivity |
+
+# mint
+
+suspend fun mint(performTransaction: suspend (MintingProperties) -&gt; MintingTransactionResult?)
+
+Performs a minting operation
+
+Finsihes after minting has finished and a receipt is found for it.
+
+## Parameters
+
+| | |
+|---|---|
+| performTransaction | Lambda function which contains the actual minting call, using the WalletSession interface |
+
+# startPersonaIdentification
+
+
+fun startPersonaIdentification(activity: [ComponentActivity](https://developer.android.com/reference/kotlin/androidx/activity/ComponentActivity.html))
+
+Starts the persona identification process.
+
+## Parameters
+
+| | |
+|---|---|
+| activity | The activity that starts the new activity containing the persona process |
 
 **Sample**
 
