@@ -8,6 +8,12 @@ Find the main ways to embed kycDAO to web3 services.
 
 The kycDAO provides APIs and interfaces (SDKs) you can use to integrate kycDAO and it's verification services.
 
+--- 
+
+Security note: 
+The results of this request is prone to manipulation on client side. 
+For maximum security add verification request to the smart contract, else use server side verification.
+
 
 ---
 

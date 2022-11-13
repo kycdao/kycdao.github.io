@@ -1,5 +1,5 @@
 ---
-label: Smart contracts
+label: Smart Contract Gating
 icon: log
 ---
 
@@ -7,7 +7,7 @@ Being as trustless as possible is important to us and all of our smart contract 
 
 If you're interested see our GitHub repo for all [smart contract](https://github.com/kycdao/smart-contracts) source code.
 
-
+SUPPORTED CHAINS
 ---
 
 ## Ethereum & EVMs

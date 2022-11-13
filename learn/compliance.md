@@ -1,11 +1,9 @@
 ---
-label: Data / Privacy
+label: Compliance
 icon: database
 order: -4
 ---
 
 [!badge  variant="info" size="L" text="Medium" text="Under Construction"] 
 
-Data storage
-
-Data Sharing with Consent 
+this is about how our issuers take compliance in their own hand

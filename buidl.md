@@ -8,6 +8,12 @@ order: -2
 Here you'll find documentation for integrating kycDAO into your site and Dapp.
 
 ---
+Supported wallet list [send to discord]
+---
+CHECK VALIDITY ALL THE TIME - it is a dynamic information that has to be validated. use your RPC
+---
+
+
 
 ### SDKs
 Use one of our SDK to integrate our kycDAO and it's verification services. [links]

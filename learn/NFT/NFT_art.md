@@ -21,7 +21,7 @@ The art can be static, regenerative or looping to represent our changing interes
 
 [nft 5] [ nft 6] [nft 7]
 
-### multiple kycNFTs on the same blockchain address
+### multiple kycNFTs on the same blockchain address [take out for now]
 
 The user's blockchain address may hold multiple kycNFTs on the same chain. 
 - users may use different web3 verification badges to represent their changing preferences

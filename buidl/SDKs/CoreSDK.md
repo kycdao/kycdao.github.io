@@ -1,5 +1,5 @@
 ---
-label: JS/TS SDK
+label: Core SDK
 icon: code
 ---
 

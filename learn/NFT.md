@@ -4,7 +4,9 @@ order: 10
 icon: image
 ---
 
-# NFT
+# NFT (change up with kycNFTs)
+## add soulbound here 
+
 
 !!!info NFT
 **NFT** stands for **Non-fungible token**. It is a unique asset which is stored on the blockchain.

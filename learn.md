@@ -3,6 +3,10 @@ label: Learn
 icon: light-bulb
 order: 0
 ---
+## What this page is for?
+and what can you learn here?
+---
+
 
 > kycDAO links verified users to blockchain addresses to create a composable web3 native compliant trust framework. 
 >
