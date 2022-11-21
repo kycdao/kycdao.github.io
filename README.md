@@ -4,35 +4,49 @@ icon: home
 order: 2
 ---
 
-
-For Wallet holders: Be Your Own Bank - Not Your Keys, Not Your Coins?
-
-For web3 projects: keeping web3 out of regulatory trouble. 
+# Composable Compliance 
 
 
-## kycDAO 
-> kycDAO links verified users to blockchain addresses to create a composable web3 native compliant trust framework. 
->
+!!! TL;DR
+**kycDAO is a web3 native effort designed to enable compliance for web3.**
+<br>
+<br>
+kycDAO links verified accounts to blockchain address to create a composable compliance primitive.
+!!! 
+
+kycDAO [members](/learn/membership.md) are the [!badge variant="contrast " text="trusted anons"] of web3.  
+
+---
+
+### Buidl with trust. 
+- Integrate compliance using [!button variant="primary" size="L" icon="code" text="kycDAO SDKs"](/buidl/SDKs.md)
+ 
+---
+
+### Join kycDAO
+
++++ :zap: Join as a [!badge variant="primary" size="L" text="partner"] 
+We invite protocols, companies, multi-sigs, DAOs, CeFIs, on-ramps and Banks committed to making web3 global to join the kycDAO framework to create a shared web3 native composable compliance infrastructure. Like any other web3 primitive, compliance must be a building block within a decentralized infrastructure stack. As a community, we can enable decentralized services to align with regulations while avoiding industry fragmentation and preventing centralization. 
+**To join kycDAO fill out this [!button variant="info" size="s" text="form"](https://forms.gle/Tztq9j1S5LKsypBy9) or send us an [!button variant="info" size="s" text="email"](emailto:composablecompliance@kycdao.xyz)**
++++ :sparkles: Become a [!badge variant="contrast" size="L" text="trusted anons"]
+We invite you to [!button variant="info" size="s" text="join kycDAO as a member"](), mint your personalized [kycNFT](/learn/NFT.md) and connect to partner services seamlessly.
++++
 
 
-## TL;DR
+kycDAO is the first interoperable web3 due diligence and compliance framework. Partners of kycDAO enable members to link their wallets to their compliant account using a proof (Soulbound NFT & Verifiable Credential). Web3 projects and smart contracts can use these proofs to create compliant services without knowing their users.
 
-- kycDAO manages identity verification **liability** to offset compliance requirements from web3 services gating with valid kycNFT-s, enabling them to stay decentralized while meeting regulatory requirements.
-- **Composable** on-chain assets enable automated gating for smart contracts. By enabling wallet holders to own proof of their verification as an extension of the wallet (non-transferable NFT) the interactions between web3 services and users stay private.
-- kycDAO infrastructure is designed with a **multi-chain** approach to creating the most widely available and supported trusted ecosystems in web3.
-- Pseudoanonymity offered by the proof of verifications (kyc NFT)-s allows 3rd parties to rely on a fully compliant user base while never needing to access data or PII about the user. [*how credit cards prove that a bank account is there, has funding, the owner is verified, without revealing any information about the owner of the card]*
+
 
 ## Background
 
 The unregulated crypto markets enabled innovation at an unprecedented pace, increasingly blurring the line between web2 and web3; the quest to establish trust is foundational.  
-Crypto, tokens, NFTs (non-fungible tokens), DAOs (decentralized autonomous organizations), and DeFi (decentralized finance) are part of the consciousness, yet “crypto” has a tarnished reputation. The scams, rug-pulls, and hacks seriously deteriorated trust in web3, hindering the real scale of adoption and growth.
+Crypto, tokens, NFTs _(non-fungible tokens)_, DAOs _(decentralized autonomous organizations)_, and DeFi _(Decentralized Finance)_ are part of the consciousness, yet “crypto” has a tarnished reputation. The scams, rug-pulls, and hacks seriously deteriorated trust in web3, hindering the real scale of adoption and growth.
 
 > **The next cycle in crypto will center around trust.**
 > 
 
-Central to trust is developing composable and interoperable “identity”. The term identity is complex; it extends to simple credentials of membership, competence, and relationships through reputation and history. It may include social graphs, reliability, and just about any type of social and digital connection.  
 
-Web3 has matured along with its recognition from niche sub-cultures to pop cultures and from obscure forums to regulators. Contrary to the early days of blockchains, solving for trust is imperative and competitive advantage. The untapped opportunity of trust will be at the forefront of the next cycle. 
+Web3 has matured along with its recognition from a niche sub-culture to pop culture level fame and from obscure forum entries to the desks of regulators. Contrary to the early days of blockchains, solving for trust is imperative and competitive advantage. The untapped opportunity of trust will be at the forefront of the next cycle. 
 
 To prepare web3 for the next cycle, kycDAO is solving the quest of linking web2 type compliant verifications to web3 as a baseline for trust. The opportunities are limitless when we solve pseudonymous trust and bridge the real and the metaverse.
 
@@ -43,17 +57,12 @@ To prepare web3 for the next cycle, kycDAO is solving the quest of linking web2 
 
 kycNFTs are the core building blocks of the broader kycDAO trust infrastructure. The multi-chain framework combines web3 primitives while maintaining support for the globally evolving regulatory compliance requirements. The soulbound NFTs minted by verified kycDAO members are composable proofs to build a trusted ecosystem. 
 
-kycDAO’s partner company (Very Labs, Inc) takes the liability for identity verifications on the verified wallet holders. The company maintains robust Know Your Customer and anti-money laundering practices to meet regulatory requirements using in-house and partner-maintained tooling.
-
-> By managing liability, kycDAO framework offers a unique web3 infrastructure component, a composable proof of pseudo-anonymous compliance.
+> By the issuers of the framework managing liability, kycDAO offers a unique web3 infrastructure component, a composable proof of pseudo-anonymous compliance.
 > 
 
 kycDAO takes privacy seriously, and no PII (Personal Identifiable Information) is ever published on chain, and access to PII will always require consent.
 
-*One-off verifications do not meet compliance requirements, rendering them equal to centralized proof-of-human verifications. Web3 has already developed efficient services such as [zorro.xyz](http://zorro.xyz) and [brightID](https://www.notion.so/2nd-class-60ef5d4eee6d46a0a653d0cd176850b1) and more available in support by [Gitcoin Passport](https://www.notion.so/DeFi-277b37d711674b54b4540a21ef018e13).*
-
-
-
+*One-off verifications do not meet compliance requirements, rendering them equal to centralized proof-of-human verifications. Web3 has already developed efficient Proof-of-Himan [Sybil resistant] services collected under [Gitcoin Passport](https://www.notion.so/DeFi-277b37d711674b54b4540a21ef018e13).*
 
 
 

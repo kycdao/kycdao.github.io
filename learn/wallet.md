@@ -6,15 +6,22 @@ order: 0
 
 
 
-kycNFTs are wallet independent. kycNFTs are minted directly to the blockchain address, enabling the owner of the blockchain address to port between wallets without loosing their verifications. Web3 is about interoperability and we designed a framework that offers the highest level of flexibility using blockchain native primitives. 
+kycNFTs are wallet independent. Web3 is about interoperability and kycDAO framework offers maximum flexibility using blockchain native primitives. 
 
-Any web3 wallet can be used to mint the kycNFT on the supported chains. We keep extedning the list of supported wallet and the chains we support. 
+kycNFTs are minted directly to the connected blockchain address, enabling the member to port between wallets without losing their trusted membersip proof. 
 
-If we missed a wallet, please get in touch via [here?]()
+---
+
+kycDAO supported wallets: 
+- [WalletConnect](https://walletconnect.com/) _(ecosysten)_
+- [Phantom](https://phantom.app/) _(native)_
+- [Metamask](https://metamask.io/) _(native)_
+
+We will keep extending of supported wallets as our ecosystem grows. 
 
 ## Multi-wallet 
 
-[!badge  variant="info" size="L" text="Medium" text="Soon"] 
+Currently a member can only link one wallet to their compliant account, however, we are already working on a solution to allow multi-wallet support. Stay tuned. 
 
 
 ---

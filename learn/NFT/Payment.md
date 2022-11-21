@@ -1,21 +1,16 @@
 ---
-label: Minting fee
+label: Fee
 icon: tag
 order: -10
 ---
 
-Payment is required for minting an NFT, as there is a cost associated with each of the verification processes.
+kycNFT (membership status) minting is FREE on every chain, and it requires valid [kycDAO membership](learn/membership.md) status. 
 
-## Payment methods
 
-### User pays
+The selected [kycDAO membership](learn/membership.md) fee is paid at the first kycNFT mint.
 
-The simplest method for payment is simply for the user to pay during the minting transaction itself.
+!!!info Example 
+5 years membership = $25  + gas fee 
+!!!
 
-### Organisation pays (Take out)
-
-It's also possible for an organisation to 'pre-pay' for their users, making it free for them to mint their kycNFTs. If you're interested in this please [get in touch](/support)
-
-## Supported currencies (update with token list per chains)
-
-We plan to support both the native currency and the most common stable coin on each chain.
+The membership price is denominated in the chain's native currency unless stated otherwise. 

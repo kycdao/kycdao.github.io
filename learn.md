@@ -3,27 +3,23 @@ label: Learn
 icon: light-bulb
 order: 0
 ---
-## What this page is for?
-and what can you learn here?
----
+This page intentds to explain primitives used by kycDAO. 
+
+!!!
+kycDAO links verified users to blockchain addresses to create a composable web3 native compliant trust framework. 
+!!!
 
 
-> kycDAO links verified users to blockchain addresses to create a composable web3 native compliant trust framework. 
->
+### Learn about kycDAO technical primitives
 
-kycDAO turns trusted verifications to web3 composable proofs. Wallet owners may mint a soulbound NFT on selected blockchains. 
+- [!button variant="info" icon="image" text="kycNFTs"](/learn/NFT.md) and how they protect our members privacy. 
 
+- How kycDAO manages [!button variant="info" icon="key" text="Wallet(s)"](/learn/wallet.md) and offers a [!button variant="info" icon="hash" text="multichain"](/learn/multichain.md) approach. 
 
----
+- How your [!button variant="info" icon="database" text="Data"](/learn/data.md) is protected and how kycDAO deals with [!button variant="info" icon="database" text="Compliance"]()
 
-### Learn about kycDAO core concepts 
+- What is kycDAO, the [!button variant="info" icon="code-of-conduct" text="DAO"](/learn/DAO.md) and the tursted ecosystem
+ 
+    - being a verified [!button variant="info" icon="accessibility" text="Member"](/learn/membership.md) and the ecosystem of benefits
 
-[:icon-image: kycNFTs]() and how they protect privacy. 
-
-How we manage your [:icon-key: wallets]().
-
-How we have a [:icon-hash: multichain]() approach. 
-
-How your [:icon-database: data]() is protected. 
-
-About kycDAO, the [:icon-code-of-conduct: DAO]() and the tursted ecosystem
+    - The role of [!button variant="info" icon="fold-up" text="Issuers"](/learn/issuer.md), and how to become one

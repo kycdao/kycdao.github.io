@@ -4,57 +4,55 @@ icon: smiley
 order: 0
 ---
 
-kycNFTs are the web3 version of the Twitter tick [tick], but they are unique and owned [forever] by the user.
+kycNFTs are the web3 version of the Twitter :icon-verified:, but they are unique and owned by the user.
 
-kycDAO non-transferable NFTs (kycNFTs) represent a one-time compliant identity verifications in the web3 space. 
-Verification badges are highly presonalizable.
+kycNFTs are highly personalizable.
 
-Read more about the kycNFT privacy preserving design here: 
+Read more about the kycNFT privacy preserving design here [!button variant="info" icon="code-square" text="kycNFT metadata"](/learn/NFT/NFT_metadata.md)
 
-## Personalization of kycNFT art
+To integrate kycNFTs into your project's UI, [!button variant="info" icon="code" text="Integrate kycNFT art"](/buidl) 
 
-kycNFTs are highly customizable to represent human uniqueness. We thrive to offer an ever growing pool of art to our users through a wide array of collaobrations.
+---
+
+## kycNFT art personalization 
+
+kycNFTs are highly customizable to represent human uniqueness. We strive to offer our members an ever-growing pool of art through collaborations.
 
 [nft 1] [nft 2] [nft 3] [nft 4]
 
-The art can be static, regenerative or looping to represent our changing interests and personality. 
+Art can be static, regenerative, or looping to represent our changing interests and personality. 
 
-[nft 5] [ nft 6] [nft 7]
+[nft 5 BRAND] [ nft 6 STABLE DIFFUSION] [nft 7 GIF]
 
-### multiple kycNFTs on the same blockchain address [take out for now]
-
-The user's blockchain address may hold multiple kycNFTs on the same chain. 
-- users may use different web3 verification badges to represent their changing preferences
-- [insert art]
-
-The user's blockchain address may hold different kycNFTs on different chains.
-- users may mint different art on different chains. 
-- [insert art]
 
 --- 
 
-## Unique shape 
-
-kycNFTs follow a unique shape to create an iconic art placement framework. 
-The shape of the kycNFT is a rounded hexagonal shape: 
-
-[IMG]
-
-Size: 600px x 600px 
-
-[download kycNFT hexa svg]
-
---- 
-
-## Custom NFT submission: 
+## NFT art collaboration: 
 
 ### for partners: 
 
-Partners integrating kycDAO framework can submit a custom NFT art. 
-kycDAO users can showcase their commitment to their preferred project by minting their custom art.  
+Partners integrating kycDAO can submit custom NFT art. 
+kycDAO members can showcase their commitment by minting their favorite project's art.  
 
 ### for artists
 
-Artist interested to submit 
+If you are an artist and would like to collaborate, get in touch with us via: 
+
+---
 
 ## Integration of kycNFTs 
+
+
+
+--- 
+## Unique shape 
+
+kycNFTs follow a unique shape to create an iconic art placement. 
+
+[!file text="Download kycNFT hexagon shape"](/static/kycDAO_hexagon.svg)
+
+![kycNFT hexagon; 600px x 560px (15:14)](/static/kycDAO_hexagon.png "kycDAO kycNFT hexagon")
+
+
+
+
