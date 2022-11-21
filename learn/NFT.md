@@ -7,22 +7,20 @@ icon: image
 This page explains the design of our initial proofs; kycNFTs: 
 
 !!!info kycNFT
-kycNFT is a non-transferable NFT, proof of a linked compliant account in the web3 space.  
+kycNFT is a non-transferable NFT; a proof of a linked compliant account in the web3 space.  
 !!!
 
 === kycNFTs are the web3 version of the Twitter tick:
 
 web2:      @VitalikButerin :icon-verified: 
 
-web3:      [!badge variant="dark" size="2xL" text="Medium" text="vitalik.eth :icon-check-circle-fill:"]
+web3:      [!badge variant="contrast" size="2xL" text="Medium" text="vitalik.eth :icon-check-circle-fill:"] 
 
-- kycNFTs are unique, [personalizable](/learn/NFT/NFT_art.md) and the members own them.
+>kycNFTs are unique, [personalizable](/learn/NFT/NFT_art.md) and the members own them.
 ===
 
 
 [!badge  corners="square" size="L" variant="danger" text="Medium" text="No PII on-chain"] - kycNFTs do not contain personally identifiable information. [Read more](/concepts/nft/nft_metadata.md)
-
-kycNFT (membership status) minting is FREE on every chain; requires [kycDAO membership](learn/membership.md). 
 
 ---
 
@@ -55,7 +53,7 @@ For a more detailed explanation of the smart contracts kycDAO uses, please see [
 
 
 
-## Why did kycDAO choose to use soulbound NFTs?
+## Why did kycDAO choose soulbound NFTs?
 
 As the concept of a decentralized identity is such a common subject discussed in web3, solutions for how to implement it have also brought up some great discussions.
 

@@ -14,7 +14,7 @@ order: 2
 kycDAO links verified accounts to blockchain address to create a composable compliance primitive.
 !!! 
 
-kycDAO [members](/learn/membership.md) are the [!badge variant="contrast " text="trusted anons"] of web3.  
+> kycDAO [members](/learn/membership.md) are the [!badge variant="contrast " text="trusted anons"] of web3.  
 
 ---
 

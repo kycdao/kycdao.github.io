@@ -4,7 +4,7 @@ icon: accessibility
 order: -11
 ---
 
-kycDAO members are the [!badge variant="contrast " text="trusted anons"] of web3. 
+kycDAO [members](/learn/membership.md) are the [!badge variant="contrast " text="trusted anons"] of web3.  
 
 !!!
 We are working hard to ensure that our members **do not** need to do an other KYC! 

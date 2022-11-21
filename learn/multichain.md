@@ -4,15 +4,35 @@ icon: hash
 order: -2
 ---
 
-We are headed to a multichain world and we are designing our solutions for this paradigm. 
+We are headed to a multichain world. kycDAO designed the framework that offers full flexibility for this paradigm. 
 
-kycNFTs are wallet independent. <br>
-The NFTs are minted directly to your blockchain address, enabling the owner of the blockchain address to port between wallets without loosing their verifications. <br>
-Web3 is about interoperability and we designed a framework that offers full flexibility using blockchain native primitives. 
+kycNFTs are minted directly to the connected blockchain address, enabling the member to port between wallets without losing the trusted membersip proof. 
 
-Many wallets support multiple chains already, but there are still nescant tools that specialize for specific blockcahins. 
+--- 
 
-[!badge  variant="info" size="L" text="Medium" text="Stay tuned"] 
+### Multi-chain
 
-Privacy of our users and security of the system is our core focus. We ask you for some time. <br>
-In the meanwhile, if you have any questions [let us know!](/support)
+> For kycDAO it means real multi-chain services.
+
+Our current live networks are: 
+- [Polygon](https://polygon.technology/) _(EVM)_
+- [Celo](https://celo.org/) _(EVM)_
+- [Solana](https://solana.com/) 
+- [NEAR](https://near.org/) 
+
+In the near future we are adding: 
+- ETH _(EVM)_
+- Optimism _(EVM)_
+- Arbitrum _(EVM)_
+- Avalanche _(EVM)_
+- Hedera _(EVM)_
+- Secret Network
+- Mina protocol
+- Aptos
+- Sui 
+- Celestia 
+- & more... 
+
+---
+
+We missed a chain we should be live on? Join our [!button variant="info" size="s" text="Discord"](https://discord.kycdao.xyz/) and let us know! 
